@@ -27,6 +27,9 @@
     <properties>
         <start-class>hello.Application</start-class>
     </properties>
+    <properties>
+        <start-home>hello.Application</start-home>
+    </properties>
 
     <build>
         <plugins>
